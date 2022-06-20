@@ -39,7 +39,7 @@
     "enquirer": "2.3.6",
     "esm": "3.2.25",
     "global-agent": "2.2.0",
-    "got": "^11.8.1",
+    "got": "^11.8.5",
     "has-yarn": "2.1.0",
     "hasbin": "1.2.3",
     "import-cwd": "3.0.0",
