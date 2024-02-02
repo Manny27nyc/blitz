@@ -24,8 +24,8 @@
   "dependencies": {
     "@blitzjs/display": "0.35.0",
     "@blitzjs/repl": "0.35.0",
-    "@oclif/command": "1.8.0",
-    "@oclif/config": "1.17.0",
+    "@oclif/command": "1.8.36",
+    "@oclif/config": "1.18.17",
     "@oclif/plugin-autocomplete": "0.3.0",
     "@oclif/plugin-help": "3.2.1",
     "@oclif/plugin-not-found": "1.2.4",
