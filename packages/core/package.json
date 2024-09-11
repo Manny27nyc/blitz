@@ -45,16 +45,16 @@
     "cookie-session": "^1.4.0",
     "cross-spawn": "7.0.3",
     "htmlescape": "^1.1.1",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "lodash.frompairs": "4.0.1",
     "nanoid": "^3.1.20",
     "next": "0.35.0",
     "npm-which": "^3.0.1",
     "null-loader": "4.0.1",
-    "passport": "0.4.1",
+    "passport": "0.6.0",
     "react-query": "3.13.9",
     "secure-password": "4.0.0",
-    "superjson": "1.7.2"
+    "superjson": "1.8.1"
   },
   "devDependencies": {
     "react": "0.0.0-experimental-6a589ad71",
